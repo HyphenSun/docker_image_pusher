@@ -5,5 +5,6 @@ xhofe/alist:latest
 oceanbase/odc:latest
 redis
 oceanbase/oceanbase-ce
+fizzgate/fizz-manager-professional:3.5.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
